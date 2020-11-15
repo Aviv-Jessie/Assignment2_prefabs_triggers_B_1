@@ -8,6 +8,7 @@ using UnityEngine;
 public class DestroyOnTrigger2D : MonoBehaviour {
     [Tooltip("Every object tagged with this tag will trigger the destruction of this object")]
     [SerializeField] string triggeringTag;
+    [Tooltip("destroy self gameObject")]
     [SerializeField] bool destroyMySelf = true;
 
     private void OnTriggerEnter2D(Collider2D other) {
