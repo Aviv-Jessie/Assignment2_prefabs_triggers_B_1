@@ -1,13 +1,16 @@
 https://aviv-jessie.itch.io/assignment2-prefabs-triggers-b-1
-# TODO list
-Assets\Scripts\3-collisions\BlockOnTrigger2D.cs add explanation and Tooltip<br>
-Assets\Scripts\3-collisions\DestroyOnTrigger2D.cs add explanation and Tooltip<br>
+# Changes:
+* Assets\Scripts\3-collisions\BlockOnTrigger2D.cs
+* Assets\Scripts\3-collisions\DestroyOnTrigger2D.cs
+* Assets\Scenes\4-level-1
 
-#explanation what we do
-Assets\Scenes\4-level-1 add 
+## Credits
+### assignment solver
+* aviv
+* omri
+* jusi
 
-##explanation Credits
-
+### assignment writer
 Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
