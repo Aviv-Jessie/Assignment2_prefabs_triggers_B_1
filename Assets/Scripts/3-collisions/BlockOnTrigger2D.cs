@@ -8,7 +8,9 @@ public class BlockOnTrigger2D : MonoBehaviour
 
     [Tooltip("Every object tagged with this tag will trigger the destruction of this object")]
     [SerializeField] string triggeringTag = "Player";
+    [Tooltip("Defiance against the wall")]
     [SerializeField] float defiance = 0.5f;
+    [Tooltip("Wall in left,right,top or button")]
     [SerializeField] Limit limit;
     private void OnTriggerEnter2D(Collider2D other) {       
         if (other.tag == triggeringTag && enabled) {
