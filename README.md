@@ -1,16 +1,24 @@
+Hello, Welcome to our games!
+
+We are learning PC-Game development, and our assignments its to make changes in spaceship game.
+We made another changes every section, in this section, we changed the walls attributes and collisions:
+
+the game:
 https://aviv-jessie.itch.io/assignment2-prefabs-triggers-b-1
+
+
 # Changes:
 * Assets\Scripts\3-collisions\BlockOnTrigger2D.cs
 * Assets\Scripts\3-collisions\DestroyOnTrigger2D.cs
 * Assets\Scenes\4-level-1
 
 ## Credits
-### assignment solver
-* aviv
-* omri
-* jusi
+### Assignment solver
+* Aviv
+* Omri
+* Jessica
 
-### assignment writer
+### Assignment writer
 Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
